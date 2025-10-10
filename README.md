@@ -6,7 +6,7 @@ Repositorio con mis ejercicios.
 
 | Actividad | Carpeta |
 |-----------|---------|
-| Ejercicio 1: Página Web Básica | [📁 Ver](./ejercicio-1) |
+| Ejercicio 1: Video_Tutorial | [📁 Ver](./ejercicio-1) |
 | Ejercicio 2:  | [📁 Ver](./ejercicio-2) |
 | Ejercicio 3:  | [📁 Ver](./ejercicio-3) |
 | Ejercicio 4: T | [📁 Ver](./ejercicio-4) |
