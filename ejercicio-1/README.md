@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Ejercicio
 
 ## 📄 Documentación
 [Ver PDF](./VideoJuego.pdf)
