@@ -1,2 +1,4 @@
-Ejercicio Guiado
+Ejercicio
 
+## 📄 Documentación
+[Ver PDF](./EjercicioGuiado.pdf)
