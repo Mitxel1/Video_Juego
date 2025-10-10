@@ -6,8 +6,8 @@ Repositorio con mis ejercicios.
 
 | Actividad | Carpeta |
 |-----------|---------|
-| Ejercicio 1: Ejercicio Guiado | | [📁 Ver](./ejercicio-2) ||
-| Ejercicio 2:  Video_Tutorial | |[📁 Ver](./ejercicio-1)||
+| Ejercicio 1: Ejercicio Guiado | [📁 Ver](./ejercicio-2) |
+| Ejercicio 2:  Video_Tutorial | [📁 Ver](./ejercicio-1)|
 | Ejercicio 3:  | [📁 Ver](./ejercicio-3) |
 | Ejercicio 4: T | [📁 Ver](./ejercicio-4) |
 
