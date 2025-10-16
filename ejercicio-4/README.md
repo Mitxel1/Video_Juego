@@ -3,7 +3,7 @@
 ##Descripción 
 
 ## 📄 Documentación
-[Ver PDF](./Tutorial#3.pdf)
+[Ver PDF](./Tutorial_#3.pdf)
 
 ## 🎥 Video Demostración
 [Ver video en Drive]()
