@@ -4,3 +4,6 @@ implementa un sistema completo de animaciones 2D para un jugador en Unity. Inclu
 
 ## 📄 Documentación
 [Ver PDF](./Tutorial#2.pdf)
+
+## 🎥 Video Demostración
+[Ver video en Drive](https://drive.google.com/file/d/12HwOnOJqt-Uy1ysifVL2ESKsnWKO8KC_/view?usp=sharing)
