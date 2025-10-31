@@ -12,6 +12,7 @@ Repositorio con mis ejercicios.
 | Ejercicio 4: Tutorial parte 3 | [📁 Ver](./ejercicio-4) |
 | Ejercicio 5: Tutorial parte 4 | [📁 Ver](./Tutoriales/ejercicio-5) |
 | Ejercicio 6: Tutorial parte 5 | [📁 Ver](./Tutoriales/ejercicio-6) |
+| Ejercicio 7: Tutorial parte 6 | [📁 Ver](./Tutoriales/ejercicio-7) |
 
 ## 👨‍💻 Autor
 
