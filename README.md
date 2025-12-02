@@ -14,6 +14,11 @@ Repositorio con mis ejercicios.
 | Ejercicio 6: Tutorial parte 5 | [📁 Ver](./Tutoriales/ejercicio-6) |
 | Ejercicio 7: Tutorial parte 6 | [📁 Ver](./Tutoriales/ejercicio-7) |
 
+| Actividad | Carpeta |
+|-----------|---------|
+| Aspectos Lejales | [📁 Ver](./Tutoriales/) |
+
+
 ## 👨‍💻 Autor
 
 **Nombre:** [Miguel Angel Anastacio Nava]  
